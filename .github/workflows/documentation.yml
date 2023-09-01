@@ -3,7 +3,7 @@ name: 📗 Documentation Build
 on:
   push:
     branches:
-      - main
+      - docs
     paths:
     - 'docs/'
     - '.github/workflows/documentation.yml'
